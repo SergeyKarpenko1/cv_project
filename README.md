@@ -20,7 +20,7 @@
 Эти возможности позволяют пользователям выполнять разнообразные операции с изображениями, повышая эффективность и точность анализа.
 
 **Результат:** 
-Streamlit. [Faster Image Master](https://cvproject-rxwz8g0iw6m.streamlit.app/brain_tumor_%F0%9F%A7%A0)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cvproject-rxwz8g0iw6m.streamlit.app/brain_tumor_%F0%9F%A7%A0)
 
 ### Computer Vision Project.
 
